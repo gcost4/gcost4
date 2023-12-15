@@ -7,7 +7,7 @@
 		</section>
 
 
- You can find me on my [personal page](https://github.com/thales-als) or at the following links:
+ You can find me on my [personal page](https://github.com/gcost4) or at the following links:
 
 
  <div align="left">
