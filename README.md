@@ -3,7 +3,7 @@
 			
    <section id="About me">
 			<h2>About me</h2>
-			<p>Student of Systems Analysis and Development in the second semester, seeking my first opportunity. I have an open mindset and am always willing to learn. My main focus of study and interest lies in the programming languages Java and Python.</p>
+			<p>Student of Systems Analysis and Development in the second semester, looking for my first opportunity. I have an open mindset and am always willing to learn. My main focus of study and interest lies in the programming languages Java and Python.</p>
 		</section>
 
 
