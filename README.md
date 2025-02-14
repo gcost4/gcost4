@@ -3,7 +3,8 @@
 			
    <section id="About me">
 			<h2>About me</h2>
-			<p>Student of Systems Analysis and Development in the second semester, looking for my first opportunity. I have an open mindset and am always willing to learn. My main focus of study and interest lies in the programming languages Java and Python.</p>
+			<p>Currently, I am a data engineer, and that's it—I stopped with Java and backend development.
+			</p>
 		</section>
 
 
